@@ -19,7 +19,7 @@ public abstract class AbstractAltar {
 
 	public abstract Filter<RSItem> getTiaraID();
 
-	public abstract String getTalismanID();
+	public abstract int getTalismanID();
 
 	public abstract boolean requirePureEssence();
 

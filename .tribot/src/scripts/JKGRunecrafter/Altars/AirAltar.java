@@ -38,8 +38,8 @@ public class AirAltar extends AbstractAltar {
 	}
 
 	@Override
-	public String getTalismanID() {
-		return "Air talisman";
+	public int getTalismanID() {
+		return 1438;
 	}
 	
 	@Override

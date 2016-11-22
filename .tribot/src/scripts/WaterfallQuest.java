@@ -63,7 +63,7 @@ public class WaterfallQuest extends Script {
 		// DownTheWaterfall();
 		// walkToHouse();
 		// talkToHadley();
-		upstairsHouse();
+		// upstairsHouse();
 		// readBook();
 		// maze();
 		// underTheMaze();
